@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/yash55-sop/Codeforces/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/yash55-sop/Codeforces/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/yash55-sop/Codeforces/tree/master/0035-search-insert-position) |
 ## Hash Table
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/yash55-sop/Codeforces/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/yash55-sop/Codeforces/tree/master/0035-search-insert-position) |
 ## Divide and Conquer
 |  |
 | ------- |
