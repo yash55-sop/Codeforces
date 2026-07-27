@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/yash55-sop/Codeforces/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/yash55-sop/Codeforces/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/yash55-sop/Codeforces/tree/master/0035-search-insert-position) |
+| [1854-maximum-population-year](https://github.com/yash55-sop/Codeforces/tree/master/1854-maximum-population-year) |
 ## Hash Table
 |  |
 | ------- |
@@ -64,4 +65,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/yash55-sop/Codeforces/tree/master/0023-merge-k-sorted-lists) |
+## Counting
+|  |
+| ------- |
+| [1854-maximum-population-year](https://github.com/yash55-sop/Codeforces/tree/master/1854-maximum-population-year) |
+## Prefix Sum
+|  |
+| ------- |
+| [1854-maximum-population-year](https://github.com/yash55-sop/Codeforces/tree/master/1854-maximum-population-year) |
 <!---LeetCode Topics End-->
