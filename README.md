@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/yash55-sop/Codeforces/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/yash55-sop/Codeforces/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/yash55-sop/Codeforces/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/yash55-sop/Codeforces/tree/master/0035-search-insert-position) |
 | [1854-maximum-population-year](https://github.com/yash55-sop/Codeforces/tree/master/1854-maximum-population-year) |
 ## Hash Table
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/yash55-sop/Codeforces/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/yash55-sop/Codeforces/tree/master/0011-container-with-most-water) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -107,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/yash55-sop/Codeforces/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/yash55-sop/Codeforces/tree/master/0112-path-sum) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/yash55-sop/Codeforces/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
