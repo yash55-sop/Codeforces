@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/yash55-sop/Codeforces/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/yash55-sop/Codeforces/tree/master/0018-4sum) |
 | [0035-search-insert-position](https://github.com/yash55-sop/Codeforces/tree/master/0035-search-insert-position) |
+| [0055-jump-game](https://github.com/yash55-sop/Codeforces/tree/master/0055-jump-game) |
 | [1854-maximum-population-year](https://github.com/yash55-sop/Codeforces/tree/master/1854-maximum-population-year) |
 ## Hash Table
 |  |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/yash55-sop/Codeforces/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/yash55-sop/Codeforces/tree/master/0010-regular-expression-matching) |
+| [0055-jump-game](https://github.com/yash55-sop/Codeforces/tree/master/0055-jump-game) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/yash55-sop/Codeforces/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/yash55-sop/Codeforces/tree/master/0055-jump-game) |
 ## Trie
 |  |
 | ------- |
