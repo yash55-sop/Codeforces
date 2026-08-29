@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/yash55-sop/Codeforces/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/yash55-sop/Codeforces/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/yash55-sop/Codeforces/tree/master/0067-add-binary) |
+| [0115-distinct-subsequences](https://github.com/yash55-sop/Codeforces/tree/master/0115-distinct-subsequences) |
 ## Sliding Window
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/yash55-sop/Codeforces/tree/master/0010-regular-expression-matching) |
 | [0055-jump-game](https://github.com/yash55-sop/Codeforces/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/yash55-sop/Codeforces/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/yash55-sop/Codeforces/tree/master/0115-distinct-subsequences) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
