@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/yash55-sop/Codeforces/tree/master/0035-search-insert-position) |
 | [0055-jump-game](https://github.com/yash55-sop/Codeforces/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/yash55-sop/Codeforces/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/yash55-sop/Codeforces/tree/master/0088-merge-sorted-array) |
 | [1854-maximum-population-year](https://github.com/yash55-sop/Codeforces/tree/master/1854-maximum-population-year) |
 ## Hash Table
 |  |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/yash55-sop/Codeforces/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/yash55-sop/Codeforces/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/yash55-sop/Codeforces/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0088-merge-sorted-array](https://github.com/yash55-sop/Codeforces/tree/master/0088-merge-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/yash55-sop/Codeforces/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/yash55-sop/Codeforces/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/yash55-sop/Codeforces/tree/master/0018-4sum) |
+| [0088-merge-sorted-array](https://github.com/yash55-sop/Codeforces/tree/master/0088-merge-sorted-array) |
 ## Backtracking
 |  |
 | ------- |
