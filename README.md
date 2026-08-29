@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/yash55-sop/Codeforces/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/yash55-sop/Codeforces/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/yash55-sop/Codeforces/tree/master/0088-merge-sorted-array) |
+| [0119-pascals-triangle-ii](https://github.com/yash55-sop/Codeforces/tree/master/0119-pascals-triangle-ii) |
 | [1854-maximum-population-year](https://github.com/yash55-sop/Codeforces/tree/master/1854-maximum-population-year) |
 ## Hash Table
 |  |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/yash55-sop/Codeforces/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/yash55-sop/Codeforces/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/yash55-sop/Codeforces/tree/master/0115-distinct-subsequences) |
+| [0119-pascals-triangle-ii](https://github.com/yash55-sop/Codeforces/tree/master/0119-pascals-triangle-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
