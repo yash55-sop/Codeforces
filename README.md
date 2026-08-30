@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/yash55-sop/Codeforces/tree/master/0018-4sum) |
 | [0035-search-insert-position](https://github.com/yash55-sop/Codeforces/tree/master/0035-search-insert-position) |
 | [0055-jump-game](https://github.com/yash55-sop/Codeforces/tree/master/0055-jump-game) |
+| [0059-spiral-matrix-ii](https://github.com/yash55-sop/Codeforces/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/yash55-sop/Codeforces/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/yash55-sop/Codeforces/tree/master/0088-merge-sorted-array) |
 | [0119-pascals-triangle-ii](https://github.com/yash55-sop/Codeforces/tree/master/0119-pascals-triangle-ii) |
@@ -198,9 +199,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/yash55-sop/Codeforces/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/yash55-sop/Codeforces/tree/master/0067-add-binary) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/yash55-sop/Codeforces/tree/master/0070-climbing-stairs) |
+## Matrix
+|  |
+| ------- |
+| [0059-spiral-matrix-ii](https://github.com/yash55-sop/Codeforces/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->
