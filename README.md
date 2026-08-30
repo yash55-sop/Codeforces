@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/yash55-sop/Codeforces/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/yash55-sop/Codeforces/tree/master/0010-regular-expression-matching) |
+| [0044-wildcard-matching](https://github.com/yash55-sop/Codeforces/tree/master/0044-wildcard-matching) |
 ## Binary Search
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/yash55-sop/Codeforces/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/yash55-sop/Codeforces/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/yash55-sop/Codeforces/tree/master/0020-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/yash55-sop/Codeforces/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/yash55-sop/Codeforces/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/yash55-sop/Codeforces/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/yash55-sop/Codeforces/tree/master/0115-distinct-subsequences) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/yash55-sop/Codeforces/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/yash55-sop/Codeforces/tree/master/0010-regular-expression-matching) |
+| [0044-wildcard-matching](https://github.com/yash55-sop/Codeforces/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/yash55-sop/Codeforces/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/yash55-sop/Codeforces/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/yash55-sop/Codeforces/tree/master/0115-distinct-subsequences) |
@@ -160,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/yash55-sop/Codeforces/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/yash55-sop/Codeforces/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/yash55-sop/Codeforces/tree/master/0055-jump-game) |
 ## Trie
 |  |
