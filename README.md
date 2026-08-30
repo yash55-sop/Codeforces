@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/yash55-sop/Codeforces/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/yash55-sop/Codeforces/tree/master/0088-merge-sorted-array) |
 | [0119-pascals-triangle-ii](https://github.com/yash55-sop/Codeforces/tree/master/0119-pascals-triangle-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/yash55-sop/Codeforces/tree/master/0349-intersection-of-two-arrays) |
 | [1854-maximum-population-year](https://github.com/yash55-sop/Codeforces/tree/master/1854-maximum-population-year) |
 ## Hash Table
 |  |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/yash55-sop/Codeforces/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/yash55-sop/Codeforces/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/yash55-sop/Codeforces/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0349-intersection-of-two-arrays](https://github.com/yash55-sop/Codeforces/tree/master/0349-intersection-of-two-arrays) |
 ## Linked List
 |  |
 | ------- |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/yash55-sop/Codeforces/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/yash55-sop/Codeforces/tree/master/0035-search-insert-position) |
+| [0349-intersection-of-two-arrays](https://github.com/yash55-sop/Codeforces/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -99,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/yash55-sop/Codeforces/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/yash55-sop/Codeforces/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0088-merge-sorted-array](https://github.com/yash55-sop/Codeforces/tree/master/0088-merge-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/yash55-sop/Codeforces/tree/master/0349-intersection-of-two-arrays) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -178,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/yash55-sop/Codeforces/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/yash55-sop/Codeforces/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/yash55-sop/Codeforces/tree/master/0088-merge-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/yash55-sop/Codeforces/tree/master/0349-intersection-of-two-arrays) |
 ## Backtracking
 |  |
 | ------- |
