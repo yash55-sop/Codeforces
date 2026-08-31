@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/yash55-sop/Codeforces/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/yash55-sop/Codeforces/tree/master/0018-4sum) |
 | [0035-search-insert-position](https://github.com/yash55-sop/Codeforces/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/yash55-sop/Codeforces/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/yash55-sop/Codeforces/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/yash55-sop/Codeforces/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/yash55-sop/Codeforces/tree/master/0066-plus-one) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/yash55-sop/Codeforces/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/yash55-sop/Codeforces/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/yash55-sop/Codeforces/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/yash55-sop/Codeforces/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/yash55-sop/Codeforces/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/yash55-sop/Codeforces/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/yash55-sop/Codeforces/tree/master/0070-climbing-stairs) |
@@ -219,5 +221,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/yash55-sop/Codeforces/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/yash55-sop/Codeforces/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->
