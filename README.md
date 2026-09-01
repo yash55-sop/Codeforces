@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/yash55-sop/Codeforces/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/yash55-sop/Codeforces/tree/master/0018-4sum) |
 | [0035-search-insert-position](https://github.com/yash55-sop/Codeforces/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/yash55-sop/Codeforces/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/yash55-sop/Codeforces/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/yash55-sop/Codeforces/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/yash55-sop/Codeforces/tree/master/0055-jump-game) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/yash55-sop/Codeforces/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/yash55-sop/Codeforces/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/yash55-sop/Codeforces/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/yash55-sop/Codeforces/tree/master/0036-valid-sudoku) |
 | [0349-intersection-of-two-arrays](https://github.com/yash55-sop/Codeforces/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yash55-sop/Codeforces/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Linked List
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/yash55-sop/Codeforces/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/yash55-sop/Codeforces/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/yash55-sop/Codeforces/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->
