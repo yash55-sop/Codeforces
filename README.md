@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/yash55-sop/Codeforces/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/yash55-sop/Codeforces/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/yash55-sop/Codeforces/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/yash55-sop/Codeforces/tree/master/0125-valid-palindrome) |
 ## Sliding Window
 |  |
 | ------- |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/yash55-sop/Codeforces/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/yash55-sop/Codeforces/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0088-merge-sorted-array](https://github.com/yash55-sop/Codeforces/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/yash55-sop/Codeforces/tree/master/0125-valid-palindrome) |
 | [0349-intersection-of-two-arrays](https://github.com/yash55-sop/Codeforces/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yash55-sop/Codeforces/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Dynamic Programming
