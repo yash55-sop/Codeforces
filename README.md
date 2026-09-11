@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/yash55-sop/Codeforces/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/yash55-sop/Codeforces/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/yash55-sop/Codeforces/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/yash55-sop/Codeforces/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/yash55-sop/Codeforces/tree/master/0088-merge-sorted-array) |
 | [0119-pascals-triangle-ii](https://github.com/yash55-sop/Codeforces/tree/master/0119-pascals-triangle-ii) |
 | [0134-gas-station](https://github.com/yash55-sop/Codeforces/tree/master/0134-gas-station) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/yash55-sop/Codeforces/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/yash55-sop/Codeforces/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/yash55-sop/Codeforces/tree/master/0074-search-a-2d-matrix) |
 | [0349-intersection-of-two-arrays](https://github.com/yash55-sop/Codeforces/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yash55-sop/Codeforces/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/yash55-sop/Codeforces/tree/master/0704-binary-search) |
@@ -246,4 +248,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/yash55-sop/Codeforces/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/yash55-sop/Codeforces/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/yash55-sop/Codeforces/tree/master/0059-spiral-matrix-ii) |
+| [0074-search-a-2d-matrix](https://github.com/yash55-sop/Codeforces/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
