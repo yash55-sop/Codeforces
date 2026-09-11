@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/yash55-sop/Codeforces/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/yash55-sop/Codeforces/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/yash55-sop/Codeforces/tree/master/0112-path-sum) |
+| [0226-invert-binary-tree](https://github.com/yash55-sop/Codeforces/tree/master/0226-invert-binary-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/yash55-sop/Codeforces/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Doubly-Linked List
 |  |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/yash55-sop/Codeforces/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/yash55-sop/Codeforces/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/yash55-sop/Codeforces/tree/master/0112-path-sum) |
+| [0226-invert-binary-tree](https://github.com/yash55-sop/Codeforces/tree/master/0226-invert-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/yash55-sop/Codeforces/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/yash55-sop/Codeforces/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/yash55-sop/Codeforces/tree/master/0112-path-sum) |
+| [0226-invert-binary-tree](https://github.com/yash55-sop/Codeforces/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/yash55-sop/Codeforces/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/yash55-sop/Codeforces/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/yash55-sop/Codeforces/tree/master/0112-path-sum) |
+| [0226-invert-binary-tree](https://github.com/yash55-sop/Codeforces/tree/master/0226-invert-binary-tree) |
 ## Greedy
 |  |
 | ------- |
