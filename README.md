@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/yash55-sop/Codeforces/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yash55-sop/Codeforces/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/yash55-sop/Codeforces/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/yash55-sop/Codeforces/tree/master/0875-koko-eating-bananas) |
 | [1854-maximum-population-year](https://github.com/yash55-sop/Codeforces/tree/master/1854-maximum-population-year) |
 ## Hash Table
 |  |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/yash55-sop/Codeforces/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yash55-sop/Codeforces/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/yash55-sop/Codeforces/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/yash55-sop/Codeforces/tree/master/0875-koko-eating-bananas) |
 ## Divide and Conquer
 |  |
 | ------- |
