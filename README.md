@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/yash55-sop/Codeforces/tree/master/0119-pascals-triangle-ii) |
 | [0134-gas-station](https://github.com/yash55-sop/Codeforces/tree/master/0134-gas-station) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/yash55-sop/Codeforces/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/yash55-sop/Codeforces/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/yash55-sop/Codeforces/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yash55-sop/Codeforces/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/yash55-sop/Codeforces/tree/master/0704-binary-search) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/yash55-sop/Codeforces/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/yash55-sop/Codeforces/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/yash55-sop/Codeforces/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/yash55-sop/Codeforces/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/yash55-sop/Codeforces/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yash55-sop/Codeforces/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Linked List
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/yash55-sop/Codeforces/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/yash55-sop/Codeforces/tree/master/0023-merge-k-sorted-lists) |
+| [0169-majority-element](https://github.com/yash55-sop/Codeforces/tree/master/0169-majority-element) |
 ## Database
 |  |
 | ------- |
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/yash55-sop/Codeforces/tree/master/0169-majority-element) |
 | [1854-maximum-population-year](https://github.com/yash55-sop/Codeforces/tree/master/1854-maximum-population-year) |
 ## Prefix Sum
 |  |
@@ -215,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/yash55-sop/Codeforces/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/yash55-sop/Codeforces/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/yash55-sop/Codeforces/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/yash55-sop/Codeforces/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/yash55-sop/Codeforces/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yash55-sop/Codeforces/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Backtracking
@@ -253,4 +258,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/yash55-sop/Codeforces/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/yash55-sop/Codeforces/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/yash55-sop/Codeforces/tree/master/0074-search-a-2d-matrix) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/yash55-sop/Codeforces/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
