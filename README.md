@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/yash55-sop/Codeforces/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/yash55-sop/Codeforces/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/yash55-sop/Codeforces/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/yash55-sop/Codeforces/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/yash55-sop/Codeforces/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/yash55-sop/Codeforces/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/yash55-sop/Codeforces/tree/master/0070-climbing-stairs) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/yash55-sop/Codeforces/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/yash55-sop/Codeforces/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/yash55-sop/Codeforces/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/yash55-sop/Codeforces/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/yash55-sop/Codeforces/tree/master/0070-climbing-stairs) |
 | [0097-interleaving-string](https://github.com/yash55-sop/Codeforces/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/yash55-sop/Codeforces/tree/master/0115-distinct-subsequences) |
@@ -270,4 +272,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/yash55-sop/Codeforces/tree/master/0169-majority-element) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/yash55-sop/Codeforces/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
