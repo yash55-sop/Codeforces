@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/yash55-sop/Codeforces/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/yash55-sop/Codeforces/tree/master/0039-combination-sum) |
+| [0052-n-queens-ii](https://github.com/yash55-sop/Codeforces/tree/master/0052-n-queens-ii) |
 | [0089-gray-code](https://github.com/yash55-sop/Codeforces/tree/master/0089-gray-code) |
 ## Stack
 |  |
@@ -278,4 +279,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/yash55-sop/Codeforces/tree/master/0062-unique-paths) |
+## Algorithm X
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/yash55-sop/Codeforces/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
