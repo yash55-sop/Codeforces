@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/yash55-sop/Codeforces/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/yash55-sop/Codeforces/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/yash55-sop/Codeforces/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/yash55-sop/Codeforces/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/yash55-sop/Codeforces/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/yash55-sop/Codeforces/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/yash55-sop/Codeforces/tree/master/0055-jump-game) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/yash55-sop/Codeforces/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/yash55-sop/Codeforces/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/yash55-sop/Codeforces/tree/master/0046-permutations) |
 | [0052-n-queens-ii](https://github.com/yash55-sop/Codeforces/tree/master/0052-n-queens-ii) |
 | [0089-gray-code](https://github.com/yash55-sop/Codeforces/tree/master/0089-gray-code) |
 ## Stack
