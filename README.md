@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/yash55-sop/Codeforces/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/yash55-sop/Codeforces/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/yash55-sop/Codeforces/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/yash55-sop/Codeforces/tree/master/0190-reverse-bits) |
 ## Database
 |  |
 | ------- |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/yash55-sop/Codeforces/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/yash55-sop/Codeforces/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/yash55-sop/Codeforces/tree/master/0089-gray-code) |
+| [0190-reverse-bits](https://github.com/yash55-sop/Codeforces/tree/master/0190-reverse-bits) |
 ## Simulation
 |  |
 | ------- |
